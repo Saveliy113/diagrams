@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T17:20:53.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dKSOBoTTqLCEHIpCopeP" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T17:30:30.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3MbBzdzTJoD3N93SttkT" version="23.1.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         </mxCell>
         <mxCell id="0FKoGiFX31I3kZRtYl2l-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="0FKoGiFX31I3kZRtYl2l-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="133" y="730" as="sourcePoint" />
+            <mxPoint x="132" y="760" as="sourcePoint" />
             <mxPoint x="160" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -87,13 +87,27 @@
           <mxGeometry x="127.5" y="520" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0FKoGiFX31I3kZRtYl2l-11" value="API 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="440" width="105" height="40" as="geometry" />
+          <mxGeometry x="390" y="440" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0FKoGiFX31I3kZRtYl2l-12" value="API 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="105" height="40" as="geometry" />
+          <mxGeometry x="630" y="440" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0FKoGiFX31I3kZRtYl2l-13" value="API 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="440" width="105" height="40" as="geometry" />
+          <mxGeometry x="750" y="440" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0FKoGiFX31I3kZRtYl2l-14" value="Запрос агентов" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.09;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0FKoGiFX31I3kZRtYl2l-5">
+          <mxGeometry x="-0.002" relative="1" as="geometry">
+            <mxPoint x="140" y="520" as="sourcePoint" />
+            <mxPoint x="250" y="520.25" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0FKoGiFX31I3kZRtYl2l-15" value="Агенты" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=-0.107;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0FKoGiFX31I3kZRtYl2l-5">
+          <mxGeometry x="0.002" relative="1" as="geometry">
+            <mxPoint x="240" y="560.28" as="sourcePoint" />
+            <mxPoint x="140" y="560" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
